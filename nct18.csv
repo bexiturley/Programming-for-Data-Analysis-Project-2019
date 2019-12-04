@@ -1,3 +1,4 @@
+Make,Model,Year,Total,Pass,Pass %,Fail,Fail %,area1,area2,area3,area4,area5,area6,area7,area8,area9,area10,area11,area12,area13,area14,area15,area16,area17,area18,area19,area20,area21,area22,area23,area24,area25,area26,Incomplete,Incomplete %
 ABARTH,595,2013,1,1,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 AC,OTHER,2006,1,0,0,1,100,1,100,1,100,0,0,0,0,0,0,1,100,0,0,1,100,1,100,1,100,1,100,1,100,0,0,0,0
 ALFA ROMEO,145,1998,2,1,50,1,50,0,0,0,0,0,0,1,50,0,0,0,0,1,50,0,0,0,0,0,0,1,50,0,0,0,0,0,0
