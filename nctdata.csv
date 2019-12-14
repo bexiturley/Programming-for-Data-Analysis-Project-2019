@@ -1,4 +1,5 @@
 vehicle_make,model,year_manu,total,pass,pass%,fail,fail%,incomplete,incomplete%
+Make,Model,Year,Total,Pass,Pass %,Fail,Fail %,Incomplete,Incomplete %
 ABARTH,595.00,2013.00,1.00,1.00,100.00,0.00,0.00,0.00,0.00
 AC,OTHER,2006.00,1.00,0.00,0.00,1.00,100.00,0.00,0.00
 ALFA ROMEO,145.00,1998.00,2.00,1.00,50.00,1.00,50.00,0.00,0.00
